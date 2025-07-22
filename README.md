@@ -45,5 +45,4 @@
 ## 💬 Connect
 
 Got feedback or ideas?
-📧 Email: [kunshbhatia@gmail.com](mailto:kunshbhatia@gmail.com)
 📍 GitHub: [kunshbhatia](https://github.com/kunshbhatia)

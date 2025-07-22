@@ -1,5 +1,7 @@
 # 📜 Nearby NEWS
 
+# Website Link :- https://nearby-news.onrender.com/
+
 **Nearby NEWS** is a Flask-based web application that fetches and displays top news headlines based on user-selected **language** and **country**. It uses the [GNews API](https://gnews.io/) to fetch real-time headlines and presents them in a clean and user-friendly interface with images and links.
 
 📌 **Author:** [Kunsh Bhatia](https://github.com/kunshbhatia)
